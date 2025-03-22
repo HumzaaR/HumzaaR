@@ -1,4 +1,4 @@
-# 👋 Hi, I'm John Doe  
+# 👋 Hi, I'm Hamza Rauf
 
 📍 Location: Lahore, Pakistan  
 📧 Email: hamzarauf959@gmail.com   
